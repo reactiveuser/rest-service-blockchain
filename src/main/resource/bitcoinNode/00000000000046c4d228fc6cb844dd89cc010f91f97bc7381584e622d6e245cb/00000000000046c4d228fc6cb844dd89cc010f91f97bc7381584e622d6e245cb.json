@@ -1,0 +1,35 @@
+{
+  "result": {
+    "hash": "00000000000046c4d228fc6cb844dd89cc010f91f97bc7381584e622d6e245cb",
+    "confirmations": 514835,
+    "strippedsize": 4188,
+    "size": 4188,
+    "weight": 16752,
+    "height": 122222,
+    "version": 1,
+    "versionHex": "00000001",
+    "merkleroot": "0f7dd9cfba26ca0b66e4f9cea2f1c7cd5e3b1a52c06caf53f861d59f52b8f626",
+    "tx": [
+      "64926ebaf086b93b23c59354d2940a132c161e2aef462e4c2ef9d2c46d51564c",
+      "41692561e888c1000afe1aaaec1d826e27f6c05fa9e6220cbd61257bf6d7e7c3",
+      "86b7c48e88da3d22d70cfca409a5ce9c6e05713bad53148d5704a7aba9fc3371",
+      "5e2eb7967b6d47b8600f0df05f86feaa7252b98b80eec63c7e9c20c4eb393ea5",
+      "31da59b44f049dadf21522387008a4768984e8e6cc3c9b51a8cbc6394eae0a27",
+      "09b7869651f7f0f5564e9ebb7d7a068305a43b48139c1b8860930a72ef659d6e",
+      "83ceee593edcddc178311ffa5f3e85bf08e7ae7baa15f44c366ea876cad756fb",
+      "91fcb13ad1e0423210382e54bc05b82115a8b21bd28f9f9aaf12ae744cc7ff42",
+      "c173d990134491767a751288f45194ad6fb6d0fc210ea75f23b46b6016afd722"
+    ],
+    "time": 1304684716,
+    "mediantime": 1304681323,
+    "nonce": 3286505530,
+    "bits": "1b0098fa",
+    "difficulty": 109670.1332924774,
+    "chainwork": "0000000000000000000000000000000000000000000000004aa80b9df64d65ea",
+    "nTx": 9,
+    "previousblockhash": "000000000000876251b4de8b997b9f445e1ffa9d3df46a7c35dbb3029daf0046",
+    "nextblockhash": "00000000000047e2ffd047d55e56120061aad3e533e8a74d2b030a84698aec2c"
+  },
+  "error": null,
+  "id": "curltext"
+}

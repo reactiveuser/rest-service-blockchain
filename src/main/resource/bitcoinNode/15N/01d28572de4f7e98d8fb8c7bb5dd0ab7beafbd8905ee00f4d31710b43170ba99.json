@@ -1,0 +1,44 @@
+{
+  "result": {
+    "txid": "01d28572de4f7e98d8fb8c7bb5dd0ab7beafbd8905ee00f4d31710b43170ba99",
+    "hash": "01d28572de4f7e98d8fb8c7bb5dd0ab7beafbd8905ee00f4d31710b43170ba99",
+    "version": 1,
+    "size": 223,
+    "vsize": 223,
+    "weight": 892,
+    "locktime": 0,
+    "vin": [
+      {
+        "txid": "2bb4cbeea4ba5a7ff71c2b5a6d9e6e41fcfc520966bca572aee87aba8997c540",
+        "vout": 1,
+        "scriptSig": {
+          "asm": "30440220143a41d59a29db4187e42296c3ef838e76cc084fe7de0e52207869c3500b2f6602204b8908827a3697f39db1ba341db77d1b2106e28790138ea0d42be567aeab32b9[ALL] 0485a7248611179fc19461a6c847216fb8b061aed0b578729ea967d01c70f42c2a994d3f8e92795cd742194f052d6d196ca8f065488184e0220ccf3a9a7c69970a",
+          "hex": "4730440220143a41d59a29db4187e42296c3ef838e76cc084fe7de0e52207869c3500b2f6602204b8908827a3697f39db1ba341db77d1b2106e28790138ea0d42be567aeab32b901410485a7248611179fc19461a6c847216fb8b061aed0b578729ea967d01c70f42c2a994d3f8e92795cd742194f052d6d196ca8f065488184e0220ccf3a9a7c69970a"
+        },
+        "sequence": 4294967295
+      }
+    ],
+    "vout": [
+      {
+        "value": 78.99950000,
+        "n": 0,
+        "scriptPubKey": {
+          "asm": "OP_DUP OP_HASH160 2ffc440711571939c79b6e579112eee349faa664 OP_EQUALVERIFY OP_CHECKSIG",
+          "hex": "76a9142ffc440711571939c79b6e579112eee349faa66488ac",
+          "reqSigs": 1,
+          "type": "pubkeyhash",
+          "addresses": [
+            "15NixkHzN4qW5h2kkmUwpUTf5jCEJNCw9o"
+          ]
+        }
+      }
+    ],
+    "hex": "010000000140c59789ba7ae8ae72a5bc660952fcfc416e9e6d5a2b1cf77f5abaa4eecbb42b010000008a4730440220143a41d59a29db4187e42296c3ef838e76cc084fe7de0e52207869c3500b2f6602204b8908827a3697f39db1ba341db77d1b2106e28790138ea0d42be567aeab32b901410485a7248611179fc19461a6c847216fb8b061aed0b578729ea967d01c70f42c2a994d3f8e92795cd742194f052d6d196ca8f065488184e0220ccf3a9a7c69970affffffff01b0abdfd6010000001976a9142ffc440711571939c79b6e579112eee349faa66488ac00000000",
+    "blockhash": "00000000000000878c30a45104c48fd4e8037cb5b3ba1e14dc4d8bef72eff1be",
+    "confirmations": 389081,
+    "time": 1373881168,
+    "blocktime": 1373881168
+  },
+  "error": null,
+  "id": "curltext"
+}

@@ -1,0 +1,57 @@
+{
+  "result": {
+    "txid": "5e2eb7967b6d47b8600f0df05f86feaa7252b98b80eec63c7e9c20c4eb393ea5",
+    "hash": "5e2eb7967b6d47b8600f0df05f86feaa7252b98b80eec63c7e9c20c4eb393ea5",
+    "version": 1,
+    "size": 257,
+    "vsize": 257,
+    "weight": 1028,
+    "locktime": 0,
+    "vin": [
+      {
+        "txid": "b7425adad0777c19613fedde85c33ad62df49eb282776bd2ac8a029397a73c74",
+        "vout": 1,
+        "scriptSig": {
+          "asm": "3044022067857772d55e12557145321c2768aae141fecbca064ccd465df1ecc0e7c6ea8102203eb0fb03e196cc52b719a7f0049994f55e3b8e2875a22436453d95be3729cc39[ALL] 04d3bd7abb40e86d2fc6f721621c18bdf6bbaa96f9828461e52212127a6184d0d6fda42778079bcdc803fc4e292adb7e648d1ddfde323fad32431f64a9a624b899",
+          "hex": "473044022067857772d55e12557145321c2768aae141fecbca064ccd465df1ecc0e7c6ea8102203eb0fb03e196cc52b719a7f0049994f55e3b8e2875a22436453d95be3729cc39014104d3bd7abb40e86d2fc6f721621c18bdf6bbaa96f9828461e52212127a6184d0d6fda42778079bcdc803fc4e292adb7e648d1ddfde323fad32431f64a9a624b899"
+        },
+        "sequence": 4294967295
+      }
+    ],
+    "vout": [
+      {
+        "value": 35.02000000,
+        "n": 0,
+        "scriptPubKey": {
+          "asm": "OP_DUP OP_HASH160 67edffe2266d8389ad741eb14d8373b4a756cb0a OP_EQUALVERIFY OP_CHECKSIG",
+          "hex": "76a91467edffe2266d8389ad741eb14d8373b4a756cb0a88ac",
+          "reqSigs": 1,
+          "type": "pubkeyhash",
+          "addresses": [
+            "1AUXiFtr3xsB34PUFuDWwjdWxAtEJ1bG3m"
+          ]
+        }
+      },
+      {
+        "value": 0.60000000,
+        "n": 1,
+        "scriptPubKey": {
+          "asm": "OP_DUP OP_HASH160 7f15c1cd34aaa08b79b64786459f12d416a45c3d OP_EQUALVERIFY OP_CHECKSIG",
+          "hex": "76a9147f15c1cd34aaa08b79b64786459f12d416a45c3d88ac",
+          "reqSigs": 1,
+          "type": "pubkeyhash",
+          "addresses": [
+            "1Caxt4wWJrAwF58wvdem4ca4tNmA9hnJZd"
+          ]
+        }
+      }
+    ],
+    "hex": "0100000001743ca79793028aacd26b7782b29ef42dd63ac385deed3f61197c77d0da5a42b7010000008a473044022067857772d55e12557145321c2768aae141fecbca064ccd465df1ecc0e7c6ea8102203eb0fb03e196cc52b719a7f0049994f55e3b8e2875a22436453d95be3729cc39014104d3bd7abb40e86d2fc6f721621c18bdf6bbaa96f9828461e52212127a6184d0d6fda42778079bcdc803fc4e292adb7e648d1ddfde323fad32431f64a9a624b899ffffffff028047bcd0000000001976a91467edffe2266d8389ad741eb14d8373b4a756cb0a88ac00879303000000001976a9147f15c1cd34aaa08b79b64786459f12d416a45c3d88ac00000000",
+    "blockhash": "00000000000046c4d228fc6cb844dd89cc010f91f97bc7381584e622d6e245cb",
+    "confirmations": 514837,
+    "time": 1304684716,
+    "blocktime": 1304684716
+  },
+  "error": null,
+  "id": "curltext"
+}
